@@ -1,5 +1,5 @@
 nombre="eric"
-mesNacimiento="Agosto"
+mesNacimiento="Septiembre"
 Numero=123456789
 
 Lista = ["eric","agosto",123456789]
